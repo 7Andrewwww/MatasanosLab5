@@ -6,8 +6,8 @@ require ("logica/Paciente.php");
 require ("logica/Cita.php");
 require ("logica/Consultorio.php");
 require ("logica/Admin.php");
-
-
+require ("verificarSesion.php");
+require ("verificarRol.php");
 ?>
 <!DOCTYPE html>
 <html lang="es">
